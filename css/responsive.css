@@ -1,0 +1,379 @@
+@media (min-width: 1400px) {
+    /* ===navbar part start === */
+    #navbar .toggler_icon i {
+        font-size: 22px;
+        color: white;
+    }
+
+    #navbar .navbar-toggler {
+        border: 0 !important;
+    }
+
+    #navbar .navbar-toggler:focus {
+        box-shadow: none !important;
+    }
+    /* ===navbar part end === */
+
+    /* ===banner part start === */
+    #banner .overlay h2 {
+        font-size: 43px;
+    }
+    /* ===banner part end === */
+
+    /* ===glowing box === */
+    .glowing_box h4 {
+        font-size: 38px;
+    }
+    /* ===glowing box === */
+
+    /* ===contact part start === */
+    #contact .img {
+        height: 275px;
+        width: 275px;
+    }
+
+    #contact .icons .icon {
+        height: 40px;
+        width: 40px;
+    }
+
+    .heading {
+        font-size: 49px;
+    }
+    /* ===contact part end === */
+
+    /* ===videos part start === */
+    #videos {
+        padding: 80px 0;
+    }
+
+    #videos .item{
+        margin: 12px 0;
+    }
+    #videos h5 {
+        padding: 10px 5px;
+    }
+    /* ===videos part end === */
+    #footer {
+        padding: 78px 0 60px 0;
+    }
+
+}
+
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+    /* ===navbar part start === */
+    #navbar .toggler_icon i {
+        font-size: 22px;
+        color: white;
+    }
+
+    #navbar .navbar-toggler {
+        border: 0 !important;
+    }
+
+    #navbar .navbar-toggler:focus {
+        box-shadow: none !important;
+    }
+    /* ===navbar part end === */
+
+    /* ===banner part start === */
+    #banner .overlay h2 {
+        font-size: 43px;
+    }
+    /* ===banner part end === */
+
+    /* ===glowing box === */
+    .glowing_box h4 {
+        font-size: 38px;
+    }
+    /* ===glowing box === */
+
+    /* ===contact part start === */
+    #contact .img {
+        height: 275px;
+        width: 275px;
+    }
+
+    #contact .icons .icon {
+        height: 40px;
+        width: 40px;
+    }
+
+    .heading {
+        font-size: 49px;
+    }
+    /* ===contact part end === */
+
+    /* ===videos part start === */
+    #videos {
+        padding: 80px 0;
+    }
+
+    #videos .item{
+        margin: 12px 0;
+    }
+    #videos h5 {
+        padding: 10px 5px;
+    }
+    /* ===videos part end === */
+    #footer {
+        padding: 78px 0 60px 0;
+    }
+
+}
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    /* ===navbar part start === */
+    #navbar .toggler_icon i {
+        font-size: 22px;
+        color: white;
+    }
+
+    #navbar .navbar-toggler {
+        border: 0 !important;
+    }
+
+    #navbar .navbar-toggler:focus {
+        box-shadow: none !important;
+    }
+    /* ===navbar part end === */
+
+    /* ===banner part start === */
+    #banner .overlay h2 {
+        font-size: 43px;
+    }
+    /* ===banner part end === */
+
+    /* ===glowing box === */
+    .glowing_box h4 {
+        font-size: 38px;
+    }
+    /* ===glowing box === */
+
+    /* ===contact part start === */
+    #contact .img {
+        height: 255px;
+        width: 255px;
+    }
+
+    #contact .icons .icon {
+        height: 40px;
+        width: 40px;
+    }
+
+    .heading {
+        font-size: 49px;
+    }
+    /* ===contact part end === */
+
+    /* ===videos part start === */
+    #videos {
+        padding: 80px 0;
+    }
+
+    #videos .item{
+        margin: 12px 0;
+    }
+    #videos h5 {
+        padding: 10px 5px;
+    }
+    /* ===videos part end === */
+    #footer {
+        padding: 78px 0 60px 0;
+    }
+
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+    /* ===navbar part start === */
+    #navbar .toggler_icon i {
+        font-size: 22px;
+        color: white;
+    }
+
+    #navbar .navbar-toggler {
+        border: 0 !important;
+    }
+
+    #navbar .navbar-toggler:focus {
+        box-shadow: none !important;
+    }
+    /* ===navbar part end === */
+
+    /* ===banner part start === */
+    #banner .overlay h2 {
+        font-size: 38px;
+    }
+    /* ===banner part end === */
+
+    /* ===glowing box === */
+    .glowing_box h4 {
+        font-size: 38px;
+    }
+    /* ===glowing box === */
+
+    /* ===contact part start === */
+    #contact .img {
+        height: 209px;
+        width: 209px;
+    }
+
+    #contact .icons .icon {
+        height: 40px;
+        width: 40px;
+    }
+
+    .heading {
+        font-size: 46px;
+    }
+    /* ===contact part end === */
+
+    /* ===videos part start === */
+    #videos {
+        padding: 55px 0;
+    }
+
+    #videos .item{
+        margin: 12px 0;
+    }
+    #videos h5 {
+        padding: 10px 5px;
+    }
+    /* ===videos part end === */
+    #footer {
+        padding: 30px 0 60px 0;
+    }
+
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+    /* ===navbar part start === */
+    #navbar .toggler_icon i {
+        font-size: 22px;
+        color: white;
+    }
+
+    #navbar .navbar-toggler {
+        border: 0 !important;
+    }
+
+    #navbar .navbar-toggler:focus {
+        box-shadow: none !important;
+    }
+    /* ===navbar part end === */
+
+    /* ===banner part start === */
+    #banner .overlay h2 {
+        font-size: 38px;
+    }
+    /* ===banner part end === */
+
+    /* ===glowing box === */
+    .glowing_box h4 {
+        font-size: 38px;
+    }
+
+    .glowing_box {
+        width: 100%;
+    }
+    /* ===glowing box === */
+
+    /* ===contact part start === */
+    #contact .img {
+        height: 300px;
+        width: 300px;
+    }
+
+    #contact .icons .icon {
+        height: 40px;
+        width: 40px;
+    }
+
+    .heading {
+        font-size: 46px;
+    }
+    /* ===contact part end === */
+
+    /* ===videos part start === */
+    #videos {
+        padding: 55px 0;
+    }
+
+    #videos .item{
+        margin: 12px 0;
+    }
+    #videos h5 {
+        padding: 10px 5px;
+    }
+    /* ===videos part end === */
+    #footer {
+        padding: 30px 0 60px 0;
+    }
+
+}
+
+@media (max-width: 575.98px) {
+    /* ===navbar part start === */
+    #navbar .toggler_icon i {
+        font-size: 22px;
+        color: white;
+    }
+
+    #navbar .navbar-toggler {
+        border: 0 !important;
+    }
+
+    #navbar .navbar-toggler:focus {
+        box-shadow: none !important;
+    }
+    /* ===navbar part end === */
+
+    /* ===banner part start === */
+    #banner .overlay h2 {
+        font-size: 30px;
+    }
+    /* ===banner part end === */
+
+    /* ===glowing box === */
+    .glowing_box h4 {
+        font-size: 22px;
+    }
+
+    .glowing_box {
+        width: 100%;
+    }
+    /* ===glowing box === */
+
+    /* ===contact part start === */
+    #contact .img {
+        height: 300px;
+        width: 300px;
+    }
+
+    #contact .icons .icon {
+        height: 40px;
+        width: 40px;
+    }
+
+    .heading {
+        font-size: 44px;
+    }
+    /* ===contact part end === */
+
+    /* ===videos part start === */
+    #videos {
+        padding: 55px 0;
+    }
+
+    #videos .item{
+        margin: 12px 0;
+    }
+    #videos h5 {
+        padding: 10px 5px;
+    }
+    /* ===videos part end === */
+    #footer {
+        padding: 30px 0 60px 0;
+    }
+
+}
